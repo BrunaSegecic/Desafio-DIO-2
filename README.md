@@ -1,2 +1,2 @@
-# Desafio-DIO-2
-Desafio de criação de um repositório para a DIO
+# Projetos Ageis com Scrum
+Repositorio criado para estudo e entrega de desafio DIO
